@@ -2,7 +2,7 @@
 
 This repository contains my personal developer portfolio hosted using GitHub Pages.
 
-🔗 Live Website: https://YOUR-USERNAME.github.io
+🔗 Live Website: https://muzammilessani.github.io
 
 ---
 
