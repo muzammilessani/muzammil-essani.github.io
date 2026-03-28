@@ -35,6 +35,11 @@ nav a{color:white;text-decoration:none;}
   text-align:center;
 }
 
+img{
+  width:150px;
+  height:auto;
+}
+
 section{padding:60px 40px;}
 
 .skills span{
